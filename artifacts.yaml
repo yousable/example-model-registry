@@ -1,7 +1,9 @@
 churn:
-  description: Churns out this is my model too
+  description: This is the new description for version 1, we have matured the model
+    enough to create a new major version! 🚀 We even added some more tags.
   labels:
   - Churn
+  - Major version
   path: models/churn.h5
   type: model
   virtual: false
