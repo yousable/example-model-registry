@@ -1,3 +1,10 @@
+churn:
+  description: Churns out this is my model too
+  labels:
+  - Churn
+  path: models/churn.h5
+  type: model
+  virtual: false
 my-pickle-model:
   description: This is my pickle model
   labels:
