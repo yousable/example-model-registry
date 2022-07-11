@@ -1,0 +1,7 @@
+my-pickle-model:
+  description: This is my pickle model
+  labels:
+  - Pickle🥒
+  path: models/my-pickle-model.pkl
+  type: model
+  virtual: false
