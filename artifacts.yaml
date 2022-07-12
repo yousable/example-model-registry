@@ -4,9 +4,8 @@ churn:
   labels:
   - Churn
   - Major version
-  path: models/churn.h5
+  path: models/churn-2.h5
   type: model
-  virtual: false
 my-pickle-model:
   description: This is my pickle model
   labels:
