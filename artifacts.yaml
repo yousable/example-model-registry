@@ -13,3 +13,10 @@ my-pickle-model:
   path: models/my-pickle-model.pkl
   type: model
   virtual: false
+random-forest:
+  description: A random forest type model
+  labels:
+  - rf
+  path: .mlem/model/rf
+  type: model
+  virtual: false
