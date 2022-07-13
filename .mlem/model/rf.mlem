@@ -3,7 +3,7 @@ artifacts:
     hash: 75ef3099c3aa9ac48211ad5635fef9f7
     size: 163651
     uri: rf
-description: Random Forest Classifier
+description: Random Forest Classifier, version v0.1.0
 model_type:
   methods:
     predict:
